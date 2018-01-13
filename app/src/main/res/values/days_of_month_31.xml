@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="days_of_month_array">
+        <item>1 - 7</item>
+        <item>8 - 14</item>
+        <item>14 - 21</item>
+        <item>21 - 27</item>
+        <item>27 - 31</item>
+    </string-array>
+</resources>

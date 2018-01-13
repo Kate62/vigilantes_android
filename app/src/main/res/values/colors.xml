@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="base_orange">#e74c3c</color>
+    <color name="grey">#303030</color>
+    <!--toolbar text color-->
+    <color name="toolbar_text_color">#ffffff</color>
+
+
+    <!--tab color-->
+    <color name="tabIndicatorColor">#e31722</color>
+    <color name="tabSelectedTextColor">#e31722</color>
+    <color name="tabTextColor">#ffffff</color>
+
+    <color name="colorLine">#e74c3c</color>
+
+    <color name="colorTextTitleTimeTable">#252525</color>
+    <color name="colorTextSubTitleTimeTable">#e4303030</color>
+
+    <color name="colorBaseCalendarButtom">#e25e5e5e</color>
+    <color name="colorWhite">#e2ffffff</color>
+    <color name="colorCalendar">#e24e4e4e</color>
+
+</resources>
